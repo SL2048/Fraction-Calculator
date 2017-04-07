@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1487863944 source:c:\e1\hardhome\data structure\assi\a1_20120084\a1_p2_20120084\main.cpp
+	<iostream>
+	"FractionCalculator.h"
+
+1487862720 source:c:\e1\hardhome\data structure\assi\a1_20120084\a1_p2_20120084\src\fraction.cpp
+	"Fraction.h"
+
+1487862653 c:\e1\hardhome\data structure\assi\a1_20120084\a1_p2_20120084\include\fraction.h
+	<iostream>
+
+1489333714 source:c:\e1\hardhome\data structure\assi\a1_20120084\a1_p2_20120084\src\fractioncalculator.cpp
+	"FractionCalculator.h"
+
+1487864039 c:\e1\hardhome\data structure\assi\a1_20120084\a1_p2_20120084\include\fractioncalculator.h
+	<iostream>
+	"Fraction.h"
+
+1487863944 source:c:\e1\hardhome\data structure\assi\assi1\a1_20120084\a1_p2_20120084\main.cpp
+	<iostream>
+	"FractionCalculator.h"
+
+1487864039 c:\e1\hardhome\data structure\assi\assi1\a1_20120084\a1_p2_20120084\include\fractioncalculator.h
+	<iostream>
+	"Fraction.h"
+
+1487862653 c:\e1\hardhome\data structure\assi\assi1\a1_20120084\a1_p2_20120084\include\fraction.h
+	<iostream>
+
+1491570378 source:c:\e1\hardhome\data structure\assi\assi1\a1_20120084\a1_p2_20120084\src\fraction.cpp
+	"Fraction.h"
+
+1489333714 source:c:\e1\hardhome\data structure\assi\assi1\a1_20120084\a1_p2_20120084\src\fractioncalculator.cpp
+	"FractionCalculator.h"
+
